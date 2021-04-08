@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+
+
+main{
+  width:80%;
+  background-color: white;
+  opacity:.8;
+  align-self: center;
+  margin-left: 10%;
+  border-radius: 20px;
+}
+
+
+
+
+
+
+body{
+  background-color: blueviolet;
+  background-position: center;
+  background-image: fix;
+  background-attachment:fixed;
+  background-size: cover;
+  font-size: 100%;
+  font-family: sans-serif;
+  backface-visibility:nationwide;
+    font-family: 'Lora', serif;
+    flex-flow:nowrap;
+}
+
+
+
+
+
+p{
+  font-size: 140%;
+}
+
+.speacialword{
+  color:red;
+  font-style: oblique;
+}
+.content{
+  color:purple;
+
+ text-align: center;
+ padding:5px;
+ text-shadow: 2px 2px 6px red;
+ text-transform: full-width;
+
+}
+nav a:link {
+    background-color: brown;
+    color:cyan;
+}
+h1{
+  width:90%;
+  border: 1px visible black;
+   border-bottom: 3px solid red;
+
+   font-weight: 500px;
+   font-size:400%;
+   color:indigo;
+   text-align:center;
+   margin-left:2%;
+
+}
+h2{
+ font-weight: 500px;
+ font-size:200%;
+ color:gray;
+
+}
+#ingredient-list li{
+  color: red;
+  list-style-image:url('spoon.gif');
+  cursor:auto;
+
+
+}
+#ingredient-list{
+  display:inline-inline-block;
+}
+aside{
+  display:inline-block;
+  width:125px;
+  margin-right: 33px;
+  background-color: gray;
+  float: left;
+  padding:4px;
+ border-top-right-radius: 16px;
+ border-bottom-right-radius: 16px;
+}
+aside:hover{
+  color: yellow;
+  shadow:2px 2px 3px red;
+}
+aside li{
+ margin-left: -5px;
+  font-style: italic;
+}
+
+
+
+#ordered li{
+  list-style-type: lower-roman;
+  margin-left:10px;
+
+}
+#ordered{
+  display:inline-grid;
+}
+form{
+  color:white;
+}
+#the-image:hover{
+  transform:scale(2);
+
+  opacity: 1;
+
+
+}
